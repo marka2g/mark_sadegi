@@ -9,6 +9,23 @@
 ```sh
 mix new mark_sadegi --umbrella
 ```
+
+> create the resume app
+```sh
+cd apps/
+```
+```sh
+
+```
+```sh
+
+```
+```sh
+
+```
+```sh
+
+```
 ```sh
 
 ```
